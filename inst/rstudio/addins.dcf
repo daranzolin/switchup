@@ -1,0 +1,4 @@
+Name: Switch before and after values
+Description: Switch the values before and after a '='
+Binding: switchup
+Interactive: true
