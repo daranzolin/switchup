@@ -18,6 +18,8 @@ remotes::install_github("daranzolin/switchup")
 
 In the example below, I've set the switchup addin to Ctrl+Shift+L:
 
+![](inst/switchup addin gif.gif)
+
 
 ## Limitations
 
